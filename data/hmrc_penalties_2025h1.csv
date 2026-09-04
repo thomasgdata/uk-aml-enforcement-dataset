@@ -1,0 +1,5 @@
+supervisor,period_start,period_end,date_published,sector,penalties_issued,total_value_gbp,notes
+HMRC,2025-04-01,2025-09-30,2026-02-09,All supervised sectors,369,1881237,"332 of the 369 were for trading without AML registration"
+HMRC,2025-04-01,2025-09-30,2026-02-09,Estate agency businesses,170,835842,
+HMRC,2025-04-01,2025-09-30,2026-02-09,Accountancy service providers,134,513930,
+HMRC,2025-04-01,2025-09-30,2026-02-09,Money service businesses,11,45253,
